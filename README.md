@@ -20,3 +20,20 @@ Lonely, but more beautiful than anyone
 
 - QQ：46773007
 - QQ Group: 858780288
+
+**My Current Devices**
+
+- 📱iPhone 8 Plus (Mainly use)
+- 📱Huawei P9 (Minecraft Server)
+- 📱Honor 8 (Whatever)
+- 📱Nubia Z9 Max Elite (Cooking)
+- 📱Xiaomi CC 9e (Photographing)
+- 💻Lenovo XiaoXin Air 14 IML (Study)
+-  iPad Air 2 (Study)
+
+**Environment**
+
+- iOS/iPadOS 15.6
+- macOS 12.5
+- Android 5/8/10/11/12
+- Windows 11 Dev
