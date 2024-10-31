@@ -9,7 +9,7 @@ Every time I see this flower, I will remember it.
 Lonely, but more beautiful than anyone
 > <p align="right">------ The Journey Of Elaina</p>
 
-- I’m a student in Shenyang No.4 Middle School
+- I’m a student in UESTC.
 - Aaaaaaah I love Elaina.
 - I like to maximize my device`s performance. (Soooooo HOT!)
 - I like to read ‘The Journey Of Elaina’
@@ -23,14 +23,13 @@ Lonely, but more beautiful than anyone
 
 **My Current Devices**
 
-- 📱iPhone 8 Plus (Mainly use)
-- 📱Nubia Z9 Max Elite (Cooking)
-- 📱Xiaomi 10T Pro (Photographing)
-- 💻Lenovo XiaoXin Air 14 IML (Study)
--  iPad Pro 2022 12.9-inch (Study)
+- 📱iPhone 12 Pro (Mainly use)
+- 📱Xiaomi 10T Pro
+- 💻MacBook Pro 14-inch M1 Max
+-  iPad Pro 2022 12.9-inch
 
 **Environment**
 
-- iOS/iPadOS 17
-- macOS 13.5
-- Android 5/12
+- iOS/iPadOS 18.2
+- macOS 15.2
+- Android 15
