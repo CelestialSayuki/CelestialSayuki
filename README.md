@@ -10,9 +10,8 @@ Lonely, but more beautiful than anyone
 > <p align="right">------ The Journey Of Elaina</p>
 
 - I’m a student in UESTC.
-- Aaaaaaah I love Elaina.
-- I like to maximize my device`s performance. (Soooooo HOT!)
 - I like to read ‘The Journey Of Elaina’
+- I like to play Arcaea.
 
 <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=win1010525&show_icons=true&hide_border=true&icon_color=79dafa&title_color=9b30ff&text_color=ccff00" align="right">
 
