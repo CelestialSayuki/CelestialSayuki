@@ -26,6 +26,7 @@ Lonely, but more beautiful than anyone
 - 📱Xiaomi 10T Pro
 - 💻MacBook Pro 14-inch M1 Max
 -  iPad Pro 2022 12.9-inch
+- ⌚️Apple Watch Series 9 45mm
 
 **Environment**
 
