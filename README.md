@@ -1,4 +1,4 @@
-#### Hi, I am [Celestial紗雪](https://github.com/CelestialSayuki)
+## Hi, I am [Celestial紗雪](https://github.com/CelestialSayuki)
 
 > Leaving the branch of the magic Integration Association, I went abroad immediately.
 There is a small flower beside the gate of the country.
@@ -10,8 +10,10 @@ Lonely, but more beautiful than anyone
 > <p align="right">------ The Journey Of Elaina</p>
 
 - I’m a student in UESTC.
-- I like to read ‘The Journey Of Elaina’
+- I like a fan of Apple.
 - I like to play Arcaea.
+- I'm learning `一生一芯`.
+- I like anime.
 
 <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=celestialsayuki&show_icons=true&hide_border=true&icon_color=79dafa&title_color=9b30ff&text_color=ccff00" align="right">
 
@@ -19,6 +21,12 @@ Lonely, but more beautiful than anyone
 
 - QQ：46773007
 - QQ Group: 858780288
+- Wechat: CelestialSayuki216
+- Telegram: @CelestialSayuki
+- X: @CelestialSayuki
+- E-mail: CelestialSayuki@qq.com
+
+## I don't welcome anyone from Geekerwan. Don't bother me.
 
 **My Current Devices**
 
@@ -30,6 +38,7 @@ Lonely, but more beautiful than anyone
 
 **Environment**
 
-- iOS/iPadOS 18.2
-- macOS 15.2
+- iOS/iPadOS 18
+- macOS 15
 - Android 15
+- Ubuntu 24.04
