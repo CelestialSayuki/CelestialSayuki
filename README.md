@@ -19,14 +19,15 @@ Lonely, but more beautiful than anyone
 
 **Contact information**
 
-- QQ：46773007
-- QQ Group: 858780288
+- QQ：[46773007](https://qm.qq.com/q/8iDuGors8E)
+- QQ Group: [858780288](https://qm.qq.com/q/dd0eGUd4wo)
 - Wechat: CelestialSayuki216
-- Telegram: @CelestialSayuki
-- X: @CelestialSayuki
+- Telegram: [@CelestialSayuki](https://t.me/CelestialSayuki)
+- X: [@CelestialSayuki](https://x.com/CelestialSayuki)
 - E-mail: CelestialSayuki@qq.com
+- Bilibili：[Celestial紗雪](https://space.bilibili.com/514518697)
 
-## I don't welcome anyone from Geekerwan. Don't bother me.
+## I don't welcome anyone from Geekerwan and most of Geekerwan's demented fans. Don't bother me.
 
 **My Current Devices**
 
