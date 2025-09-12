@@ -19,9 +19,7 @@ Lonely, but more beautiful than anyone
 
 **Contact information**
 
-- QQ：[46773007](https://qm.qq.com/q/8iDuGors8E)
 - QQ Group: [858780288](https://qm.qq.com/q/dd0eGUd4wo)
-- Wechat: CelestialSayuki216
 - Telegram: [@CelestialSayuki](https://t.me/CelestialSayuki)
 - X: [@CelestialSayuki](https://x.com/CelestialSayuki)
 - E-mail: CelestialSayuki@qq.com
