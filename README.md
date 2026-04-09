@@ -24,6 +24,6 @@ If you'd like to get in touch with me, pls consider QQ first.
 -  iPad Pro 2022 12.9-inch
 - ⌚️Apple Watch Series 9 45mm
 
-# 钟广聪，你赢了，你的Device Lab App的功能太牛逼了，拿AI Vibe一个和我一模一样的，以后我所有仓库都只有个Readme了，你随便 Vibe，我看你还能创造出什么东西。
+# 注意：由于受到长期骚扰，我的所有代码仓库现在都只包含 README 。如果您对项目或实现细节感兴趣，请私信联系我。
 
-# Notice: After enduring over a year and a half of persistent plagiarism and unauthorized cloning, I have decided to remove all my source code. All my repos will now only contain a README. If you are interested in the project or the implementation details, please contact me via DM.
+# Notice: All my repos will now only contain a README. If you are interested in the project or the implementation details, please contact me via DM.
