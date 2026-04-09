@@ -20,9 +20,10 @@ If you'd like to get in touch with me, pls consider QQ first.
 **My Current Devices**
 
 - 📱iPhone 12 Pro (Mainly use)
-- 📱iPhone 5s
-- 📱Xiaomi 10T Pro
 - 💻MacBook Pro 14-inch M1 Max
-- 💻MacBook 12-inch
 -  iPad Pro 2022 12.9-inch
 - ⌚️Apple Watch Series 9 45mm
+
+# 钟广聪，你赢了，你的Device Lab App的功能太牛逼了，拿AI Vibe一个和我一模一样的，以后我所有仓库都只有个Readme了，你随便 Vibe，我看你还能创造出什么东西。
+
+# Notice: After enduring over a year and a half of persistent plagiarism and unauthorized cloning, I have decided to remove all my source code. All my repos will now only contain a README. If you are interested in the project or the implementation details, please contact me via DM.
